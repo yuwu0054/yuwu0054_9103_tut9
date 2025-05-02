@@ -2,7 +2,7 @@ function setup() {
   createCanvas(400, 400);
 }
 
-function draw() {
-  background(220);
-}
 
+
+//NEW CHANGES OVER HERE!
+//DELETE 2 LINENS
